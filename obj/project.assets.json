@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Мвидео\\Desktop\\Dairy\\Dairy.csproj",
-      "projectName": "Dairy",
-      "projectPath": "C:\\Users\\Мвидео\\Desktop\\Dairy\\Dairy.csproj",
+      "projectUniqueName": "C:\\Users\\Мвидео\\Desktop\\Dairy\\MainFrame.csproj",
+      "projectName": "MainFrame",
+      "projectPath": "C:\\Users\\Мвидео\\Desktop\\Dairy\\MainFrame.csproj",
       "packagesPath": "C:\\Users\\Мвидео\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Мвидео\\Desktop\\Dairy\\obj\\",
       "projectStyle": "PackageReference",
