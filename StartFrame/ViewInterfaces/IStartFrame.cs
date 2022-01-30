@@ -6,5 +6,6 @@ namespace StartFrame.ViewInterfaces
 {
 	interface IStartFrame
 	{
+		void StartWorkingButtonClick();
 	}
 }
