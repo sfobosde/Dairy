@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace StartFrame.View
+namespace StartFramwView
 {
 	/// <summary>
-	/// Логика взаимодействия для StartFrameView.xaml
+	/// Interaction logic for MainWindow.xaml
 	/// </summary>
-	public partial class StartFrameView : UserControl
+	public partial class MainWindow : Window
 	{
-		public StartFrameView()
+		public MainWindow()
 		{
 			InitializeComponent();
 		}
