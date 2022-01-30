@@ -5,3 +5,8 @@ C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.csprojAssemb
 C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.csproj.CoreCompileInputs.cache
 C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.exe
 C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.pdb
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\View\StartFrameView.g.cs
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame_MarkupCompile.cache
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame_MarkupCompile.lref
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\View\StartFrameView.baml
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.g.resources
