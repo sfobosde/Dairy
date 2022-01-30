@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IStartFramePresenter.cs" />
+    <Compile Include="Interfaces\IStartFrameView.cs" />
+    <Compile Include="Interfaces\IStartFrameWorkData.cs" />
+    <Compile Include="Presentors\StartFramePresentor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

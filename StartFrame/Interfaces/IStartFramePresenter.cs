@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace StartFrame.Interfaces
 {
-	class IStartFramePresentor
+	interface IStartFramePresenter
 	{
+
 	}
 }
