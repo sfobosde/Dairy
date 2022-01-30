@@ -7,5 +7,33 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition x:Name="HeadStrip" Height="50"/>
+                <RowDefinition x:Name="MainStrip" Height="300"/>
+                <RowDefinition x:Name="LogMessageStrip" Height="100"/>
+            </Grid.RowDefinitions>
+        </Grid>
+
+        <!--HeadStrip-->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <!--MainStrip-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <!--LogMessageStrip-->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+
+            </Grid.ColumnDefinitions>
+        </Grid>
     </Grid>
 </UserControl>
