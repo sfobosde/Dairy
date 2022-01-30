@@ -1,0 +1,7 @@
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\bin\Debug\StartFrame.exe.config
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\bin\Debug\StartFrame.exe
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\bin\Debug\StartFrame.pdb
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.csprojAssemblyReference.cache
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.exe
+C:\Users\Мвидео\Desktop\Dairy\StartFrame\obj\Debug\StartFrame.pdb
